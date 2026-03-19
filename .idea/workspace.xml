@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4f3991c-09e1-41a9-b26c-8046d49c5b16" name="Changes" comment="" />
+    <list default="true" id="b4f3991c-09e1-41a9-b26c-8046d49c5b16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/humanizer_vercel_redeploy/api/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/humanizer_vercel_redeploy/api/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/humanizer_vercel_redeploy/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/humanizer_vercel_redeploy/vercel.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,9 @@
   </component>
   <component name="EmbeddingIndexingInfo">
     <option name="cachedIndexableFilesCount" value="1" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -35,8 +43,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Merging main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/USER/OneDrive/Ambiente de Trabalho/Mini Prj",
     "node.js.detected.package.eslint": "true",
@@ -142,7 +152,7 @@
       <updated>1773918096433</updated>
       <workItem from="1773918097590" duration="603000" />
       <workItem from="1773919110878" duration="3275000" />
-      <workItem from="1773928837411" duration="3071000" />
+      <workItem from="1773928837411" duration="5190000" />
     </task>
     <servers />
   </component>
